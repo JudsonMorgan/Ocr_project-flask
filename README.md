@@ -8,4 +8,6 @@ An OCR project which extracts texts from images.
 # To Do
 1. clone repository
 2. run app.py on conda prompt
-3. test with images
+3. test with image.
+
+I tested with the image file in images folder; you can add your own image and test.
